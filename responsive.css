@@ -1,0 +1,29 @@
+.bottom{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.songInfo {
+    position: absolute;
+    left: 2vw;
+}
+.bottom{
+    height: 90px;
+}
+.icons{
+    margin-top: 36px;
+}
+
+.songItem img {
+    width: 30px;
+    margin: 0 9px;
+    border-radius: 20px;
+}
+.timestamp {
+    margin: 0px 5px;
+}
+nav ul li {
+    padding: 0 3px;
+}
